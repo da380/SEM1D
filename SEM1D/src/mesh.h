@@ -1,0 +1,4 @@
+#ifndef SEM1D_MESH_GUARD_H
+#define SEM1D_MESH_GUARD_H
+
+#endif // SEM1D_MESH_GUARD_H

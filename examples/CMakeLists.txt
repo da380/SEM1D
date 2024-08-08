@@ -1,0 +1,2 @@
+add_executable(MeshExample MeshExample.cpp)
+target_link_libraries(MeshExample SEM1D)
