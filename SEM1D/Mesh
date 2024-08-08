@@ -1,6 +1,8 @@
 #ifndef SEM1D_MESH_MODULE_GUARD
 #define SEM1D_MESH_MODULE_GUARD
 
-#include "src/mesh.h"
+#include "src/Concepts.h"
+#include "src/Element.h"
+#include "src/Mesh.h"
 
 #endif
